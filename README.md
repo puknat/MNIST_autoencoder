@@ -1,1 +1,1 @@
-# MNIST_autoencoder
+# Simple Linear Autoencoder for MNIST
